@@ -1,0 +1,7 @@
+{
+  "name": "proyectone",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
